@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @l0newander3r
-- 👀 I’m interested in wandering around
-- 🌱 I’m currently learning the beauty of perfection
-- 💞️ I’m looking to collaborate on anything of value
-- 📫 How to reach me @freenode
+- 👀 I’m interested in exploring the intersection of technology, ethics, and society. Think sustainable systems, human-centered design, and the occasional trek through the wilderness.
+- 🌱 I’m currently learning how to build a more equitable and sustainable future through ethical engineering and open-source collaboration. (Also, dabbling in Go and perfecting my sourdough starter).
+- 💞️ I’m looking to collaborate on projects that promote social responsibility, privacy-enhancing technologies, or alternative economic models. (Hit me up if you're fighting the good fight!).
+- 📫 How to reach me: Find me lurking on @freenode, usually pontificating on the perils of late-stage capitalism.
 - 😄 Pronouns: they/them
-- ⚡ Fun fact: I'm always fun!
-
-<!---
-l0newander3r/l0newander3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: I can seamlessly switch between languages!
